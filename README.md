@@ -5,8 +5,10 @@
 
 :computer: I'm currently a student and i am improving myself
 
+I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 2nd year student. For now I'm learning C++, C#, Bash languages.
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylar-Z31&layout=compact&hide=html" alt="Mertdogan" /></p>
 
-I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 2nd year student. For now I'm learning C++, C#, Bash languages.
+<br />
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sylar-Z31)](https://github.com/anuraghazra/github-readme-stats)
