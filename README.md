@@ -5,7 +5,7 @@
 
 :computer: I'm currently a student and i am improving myself
 
-I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 2nd year student. For now I'm learning C++, C#, Bash languages.
+I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 2nd year student. For now I'm learning C++, C#
 
 
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
