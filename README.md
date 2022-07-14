@@ -9,7 +9,9 @@ I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer
 
 
 <img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
+<img align="left" alt="C#" width="35px" src="https://user-images.githubusercontent.com/78795973/178966377-1193fec3-c483-4151-98ec-34708829647e.png" />
 <img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+
 <br />
 <br />
 <br />
