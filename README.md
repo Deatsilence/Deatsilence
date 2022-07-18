@@ -17,6 +17,8 @@ I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer
 <br />
 <br />
 
+For communicate -> [mertdge@gmail.com](mailto:mertdge@gmail.com)
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sylar-Z31&layout=compact&hide=html" alt="Mertdogan"
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Sylar-Z31)](https://github.com/anuraghazra/github-readme-stats)
