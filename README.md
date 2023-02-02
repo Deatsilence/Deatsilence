@@ -26,7 +26,10 @@ I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer
 <br />
 <br />
 
-For communicate -> [mertdge@gmail.com](mailto:mertdge@gmail.com)
+# 
+
+For communicate -> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mertdgnn/)
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deatsilence&layout=compact&hide=html" alt="Mertdogan"
         
