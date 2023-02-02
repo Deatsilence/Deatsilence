@@ -7,11 +7,24 @@
 
 I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 3nd year student. For now I'm learning C++, C#, Flutter(dart)
 
+#
 
-<img align="left" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="C#" width="35px" src="https://user-images.githubusercontent.com/78795973/178966377-1193fec3-c483-4151-98ec-34708829647e.png" />
-<img align="left" alt="Git" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Git" width="45px" src="https://user-images.githubusercontent.com/78795973/178966684-1e520082-df15-4052-b0f5-74abea0345b6.jpg" />
+### Languages and Tools
+
+<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="C#" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" />
+<img align="left" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="MSSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+
+
+
+          
+
+          
 <br />
 <br />
 <br />
@@ -20,5 +33,8 @@ I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer
 For communicate -> [mertdge@gmail.com](mailto:mertdge@gmail.com)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deatsilence&layout=compact&hide=html" alt="Mertdogan"
+        
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Deatsilence)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Deatsilence&show_icons=true&theme=tokyonight)
+
+        
