@@ -5,7 +5,7 @@
 
 :computer: I'm currently a student and i am improving myself
 
-I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 3nd year student.
+I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 4nd year student.
 
 #
 
