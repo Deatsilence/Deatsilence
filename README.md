@@ -1,11 +1,11 @@
 <h1 align="center">Hi :wave:, I'm Mert</h1>
-<h3 align="center">A passionate Computer engineering student from Turkey</h3>
+<h3 align="center">A passionate Computer engineering student from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deatsilence" alt="Mertdogan" /> </p>
 
 :computer: I'm currently a student and i am improving myself
 
-I'm Mert from türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 4nd year student.
+I'm Mert from Türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 4nd year student.
 
 #
 
