@@ -5,7 +5,7 @@
 
 :computer: I'm currently a student and i am improving myself
 
-I'm Mert from Türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 4nd year student. I'm working as a part time software developer at LOGO YAZILIM at the same time.
+I'm Mert from Türkiye. I'm studying Computer Engineering or other name Computer Science at Iskenderun Technical University. Now I am a 4nd year student. I'm working as a part time software developer at LOGO SOFTWARE at the same time.
 
 #
 
