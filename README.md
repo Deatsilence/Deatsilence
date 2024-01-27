@@ -29,9 +29,6 @@ I'm Mert from Türkiye. I'm studying Computer Engineering or other name Computer
 <br />
 <br />
 
-# 
-
-For communicate -> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mertdgnn/)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deatsilence&layout=compact&hide=html" alt="Mertdogan"
