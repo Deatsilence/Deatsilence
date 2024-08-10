@@ -5,7 +5,7 @@
 
 :computer: I'm currently a Software Developer
 
-I'm Mert from Türkiye. I'm working as a part time software developer at LOGO SOFTWARE (Logo Business Solutions)
+I'm Mert from Türkiye. I'm working as a software developer at LOGO SOFTWARE (Logo Business Solutions)
 
 #
 
