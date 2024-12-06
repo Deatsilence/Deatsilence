@@ -1,5 +1,5 @@
 <h1 align="center">Hi :wave:, I'm Mert</h1>
-<h3 align="center">A passionate Computer engineering student from Türkiye</h3>
+<h3 align="center">A passionate Sofware Engineer from Türkiye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Deatsilence" alt="Mertdogan" /> </p>
 
