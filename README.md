@@ -22,6 +22,11 @@ I'm Mert from Türkiye. I'm working as a software developer at LOGO SOFTWARE (Lo
 <img align="left" alt="MSSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 <img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 <img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="left" alt="Jenkins" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" />
+<img align="left" alt="Nexus (Sonatype)" width="30px" src="https://cdn.simpleicons.org/sonatype/ffffff" />
+
+
+
         
 
 
